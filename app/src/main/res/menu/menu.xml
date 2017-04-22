@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="5"
+    android:id="@+id/size5"/>
+    <item
+        android:title="10"
+        android:id="@+id/size10"/>
+    <item
+        android:title="15"
+        android:id="@+id/size15"/>
+    <item
+        android:title="20"
+        android:id="@+id/size20"/>
+</menu>
